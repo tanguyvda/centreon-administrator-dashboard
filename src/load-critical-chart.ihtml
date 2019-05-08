@@ -1,0 +1,10 @@
+
+<div id="administrator-dashboard">
+    <div id="critical-chart">
+        tktk
+    </div>
+</div>
+<script type="text/javascript" src="./js/critical-chart.js"></script>
+<script>
+alert("Hello");
+</script>

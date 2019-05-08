@@ -1,0 +1,15 @@
+<configs>
+    <title>Centreon administrator dashboard</title>
+    <author>Centreon</author>
+    <email>contact@centreon.com</email>
+    <website>https://www.centreon.com</website>
+    <description>Fully setup dashboard with monitoring architecture related data</description>
+    <version>18.10.0</version>
+    <keywords>centreon, widget, dashboard</keywords>
+    <screenshot></screenshot>
+    <thumbnail>./widgets/centreon-administrator-dashboard/resources/logo.png</thumbnail>
+    <url>./widgets/centreon-administrator-dashboard/index.php</url>
+    <autoRefresh>1440</autoRefresh>
+    <preferences>
+    </preferences>
+</configs>  
